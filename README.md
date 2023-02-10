@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackmford
 - 👀 Interests: Site Reliability Engineering, Fly Fishing, and Running
-- 🌱 Currently Learning: Go, Ansible
+- 🌱 Currently Learning: Go, Tailwind CSS
 - 📗 Currently Reading: [Slaugherhouse Five](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five)
 
 <!---
