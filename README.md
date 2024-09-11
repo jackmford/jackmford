@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @jackmford
 - 👀 Interests: Site Reliability Engineering, Fly Fishing, and Running
 - 🌱 Currently Working On: Making it easier to generate SLO configuration
 - 📗 Currently Reading: The Gulag Archipelago - Aleksandr Solzhenitsyn
