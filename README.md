@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm a **Site Reliability Engineer (SRE)** with a passion for creating reliable, scalable systems to improve user experience and on-call engineer quality of life.
+I'm a **Site Reliability Engineer** with a passion for creating reliable, scalable systems to improve user experience and on-call engineer quality of life.
 
 ## About Me
 
-- **👨‍💻 Work**: Site Reliability Engineering (SRE)
+- **👨‍💻 Work**: Site Reliability Engineering
 - I enjoy:
   - **🏃‍♂️ Running**
   - **📖 Reading**
