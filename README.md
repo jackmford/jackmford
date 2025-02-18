@@ -1,30 +1,22 @@
-# Hi there! 👋
+👋
 
-I'm a **Site Reliability Engineer** with a passion for creating reliable, scalable systems to improve user experience and on-call engineer quality of life.
+I'm a software engineer who enjoys working in high-performing teams and tackling the challenges that come with building reliable, scalable systems.
 
-## About Me
+🖥️ What You'll Find Here
 
-- **👨‍💻 Work**: Site Reliability Engineering
-- I enjoy:
-  - **🏃‍♂️ Running**
-  - **📖 Reading**
-  - **🎣 Fly Fishing**
+Projects – A mix of tools, scripts, and experiments focused on reliability, automation, and making life easier for engineers.
+Learning – Notes, docs, and things I'm figuring out as I go, especially around Python, Golang, and observability.
+Writing – I write on two Substacks ([Becoming Reliable](https://becomingreliable.substack.com/) and [Relay](https://www.byrelay.com/)) and try (key word: try) to keep my writing in source control too.
 
-## What You’ll Find Here
+🔍 Currently Into
 
-- **Projects**: Tools, scripts, and small projects aimed at improving infrastructure reliability, automation, and efficiency.
-- **Learning**: Documentation and insights from my continuous learning journey, particularly around Python, Golang, and other observability related technologies.
-- **Writing**: I try to keep all of my writing in source control, though to be honest I could do a better job.
+Brushing up on DSA, diving deeper into system design, and generally leveling up as an SRE.
 
-## Currently Learning
+📞 Let’s Connect!
 
-I’m currently exploring Go by working through DSA review but instead of writing in my main language Python, using Go. I'm always attempting to keep up with the ever changing and evolving observability and monitoring technology space as well.
+[LinkedIn](https://www.linkedin.com/in/jackmitchellfordyce/)
 
-## Let’s Connect!
-
-I enjoy exchanging ideas with like-minded folks in tech and beyond. Feel free to reach out or connect with me here on GitHub or on LinkedIn!
-
-Cheers!
+🚀 Cheers!
 <!---
 jackmford/jackmford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
