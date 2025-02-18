@@ -5,7 +5,9 @@ I'm a software engineer who enjoys working in high-performing teams and tackling
 🖥️ What You'll Find Here
 
 Projects – A mix of tools, scripts, and experiments focused on reliability, automation, and making life easier for engineers.
+
 Learning – Notes, docs, and things I'm figuring out as I go, especially around Python, Golang, and observability.
+
 Writing – I write on two Substacks ([Becoming Reliable](https://becomingreliable.substack.com/) and [Relay](https://www.byrelay.com/)) and try (key word: try) to keep my writing in source control too.
 
 🔍 Currently Into
