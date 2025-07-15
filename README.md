@@ -12,7 +12,7 @@ Writing – I write on two Substacks ([Becoming Reliable](https://becomingreliab
 
 🔍 Currently Into
 
-Brushing up on DSA, diving deeper into system design, and generally leveling up as an SRE.
+Building LLM enhanced applications for observability data, random productivity use cases, and enhancing my digital ecosystem with fun scripting.
 
 📞 Let’s Connect!
 
